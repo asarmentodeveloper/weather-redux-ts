@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [General Info](#general-information)
-- [Built with](#build-with)
+- [Built with](#built-with)
 - [Other Plugins](#other-plugins)
 - [Setup](#setup)
 - [Other commands](#other-commands)
